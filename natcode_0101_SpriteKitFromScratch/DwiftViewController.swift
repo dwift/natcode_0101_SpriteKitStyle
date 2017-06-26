@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  DwiftViewController.swift
 //  natcode_0101_SpriteKitFromScratch
 //
 //  Created by Carlyn Maw on 6/25/17.
@@ -11,7 +11,7 @@
 import UIKit
 import SpriteKit
 
-class ViewController: UIViewController {
+class DwiftViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
