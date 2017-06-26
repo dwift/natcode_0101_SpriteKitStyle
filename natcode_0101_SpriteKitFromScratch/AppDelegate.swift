@@ -3,7 +3,7 @@
 //  natcode_0101_SpriteKitFromScratch
 //
 //  Created by Carlyn Maw on 6/25/17.
-//  Copyright © 2017 carlynorama. All rights reserved.
+//  Copyright © 2017 carlynorama. No rights reserved.
 //
 
 import UIKit
